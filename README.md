@@ -1,4 +1,4 @@
-# freedom
+# laravel-chat-board
 
 ## laravelのインストール
 
